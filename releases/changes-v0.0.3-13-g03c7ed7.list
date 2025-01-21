@@ -1,0 +1,6 @@
+- ULS-XSpot:External compass only mode
+- ULS-XSpot:External IMU and Compas Led indicator
+- ULS-XSpot external magnetometer support added
+- CAN blitz messages updates 
+- CAN addrees and CAN speed added
+- Small issues fixed.
