@@ -1,0 +1,7 @@
+- ULS-ProCopter:support added
+- ULS-Heli:support added
+- ULS-OnNet:support added
+- ULS-XCopter:CAN Bus device address and speed select
+- ULS-XSpot:External compass only mode
+- ULS-XSpot:External IMU and Compas Led indicator
+- ULS-XSpot external magnetometer support added
